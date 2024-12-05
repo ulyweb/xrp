@@ -1,4 +1,6 @@
-Hey\!, Here's some info to get you started:
+Hey\!, 
+
+#### Here's some info to get you started:
 
 **1\. Getting Started:**
 
