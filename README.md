@@ -27,4 +27,4 @@
   * **Write down your seed phrase\!** When you set up **Xaman**, it'll give you a "seed phrase" – a list of words. This is like the master key to your wallet. Write it down and keep it somewhere super safe (like a fireproof box or a safe deposit box). If you lose your phone, you can use this phrase to recover your XRP.  
 * **ISO 20022 is a global standard for electronic data interchange between financial institutions. Cryptocurrencies that are compliant with this standard can integrate with traditional financial systems. Notable ISO 20022-compliant cryptocurrencies include Ripple's (XRP), Stellar Lumens (XLM), IOTA (MIOTA), Algorand (ALGO), Quant (QNT), Hedera HashGraph (HBAR), and XDC Network (XDC).**  
 * **Diversification:** Don't put all your eggs in one basket. Consider exploring other cryptocurrencies too.  
-* **Risk:** Crypto can be volatile\! **Only invest what you can afford to lose.**\ ## **and it's important to do your own research.**
+* **Risk:** Crypto can be volatile\! **Only invest what you can afford to lose.** ##\. **and it's important to do your own research.**
