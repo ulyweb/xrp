@@ -2,9 +2,9 @@
 
 **1\. Getting Started:**
 
-* I recommend starting with Coinbase, it's easy to use: [https://coinbase.com/join/4R3JHCC](https://coinbase.com/join/4R3JHCC)  
-* Robinhood is another option, but Coinbase offers more crypto choices: [https://join.robinhood.com/ulyssef1](https://join.robinhood.com/ulyssef1)  
-* Uphold is good too, especially if you want to explore other assets beyond crypto: [https://wallet.uphold.com/signup?referral=358c417081\&campaign=uw\_p\_d\_w\_acq\_raf\&utm\_source=raf\&utm\_medium=referafriend](https://wallet.uphold.com/signup?referral=358c417081&campaign=uw_p_d_w_acq_raf&utm_source=raf&utm_medium=referafriend)
+* I recommend starting with Coinbase, it's easy to use: [Coinbase link](https://coinbase.com/join/4R3JHCC)  
+* Robinhood is another option, but Coinbase offers more crypto choices: [Robinhood link](https://join.robinhood.com/ulyssef1)  
+* Uphold is good too, especially if you want to explore other assets beyond crypto: [Uphold link](https://wallet.uphold.com/signup?referral=358c417081&campaign=uw_p_d_w_acq_raf&utm_source=raf&utm_medium=referafriend)
 
 **2\. Buying Your First Crypto:**
 
@@ -27,4 +27,4 @@
   * **Write down your seed phrase\!** When you set up **Xaman**, it'll give you a "seed phrase" – a list of words. This is like the master key to your wallet. Write it down and keep it somewhere super safe (like a fireproof box or a safe deposit box). If you lose your phone, you can use this phrase to recover your XRP.  
 * **ISO 20022 is a global standard for electronic data interchange between financial institutions. Cryptocurrencies that are compliant with this standard can integrate with traditional financial systems. Notable ISO 20022-compliant cryptocurrencies include Ripple's (XRP), Stellar Lumens (XLM), IOTA (MIOTA), Algorand (ALGO), Quant (QNT), Hedera HashGraph (HBAR), and XDC Network (XDC).**  
 * **Diversification:** Don't put all your eggs in one basket. Consider exploring other cryptocurrencies too.  
-* **Risk:** Crypto can be volatile\! Only invest what you can afford to lose.
+* **Risk:** Crypto can be volatile\! **Only invest what you can afford to lose.**
