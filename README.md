@@ -17,7 +17,7 @@
 
 **3\. Understanding XRP:**
 
-* XRP is a cryptocurrency used for fast and cheap international transfers. It might play a bigger role in finance in the future, but it's important to do your own research. [Article of XRP History](https://coinmarketcap.com/academy/article/xrp-a-history)  [and XRP Comparison](https://www.kucoin.com/research/project-reports/xrp-xrp)
+* XRP is a cryptocurrency used for fast and cheap international transfers. It might play a bigger role in finance in the future, but it's important to do your own research. [Article of XRP History](https://coinmarketcap.com/academy/article/xrp-a-history) | [and XRP Comparison](https://www.kucoin.com/research/project-reports/xrp-xrp)
 
 **4\. Important Things to Remember:**
 
